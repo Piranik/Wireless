@@ -1,5 +1,7 @@
 # Wireless
 Script created to analyze wireless networks:
+
+
   direct.py: 
   Is used to attack WPA encrypted networks with no client, so we won't gain no handshake. This method is very slow.
   
